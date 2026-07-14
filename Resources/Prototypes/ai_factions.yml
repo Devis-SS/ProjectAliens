@@ -89,6 +89,36 @@
   - Dragon
   - Xenoborg
   - AUColonist
+  - UNMC
+  - CLF
+  - AUGoo
+  - Abomination
+  - OPFOR
+  - CMUAPE
+  - GOVFOR
+  - CMUProdigy
+  - CMUVAI
+  - AUUpp
+  - ColonySynth
+  - CMUTWE
+  - CMUUSCMC
+  - AUBureau
+  - NSPA
+  - USAF
+  - AUUnitedAmericas
+  - NanoTrasen
+  - SPP
+  - GOVFOR
+  - OPFOR
+  - Halcyon
+  - WeYa
+  - Civilian
+  - CLF
+  - TSE
+  - AUColonist
+  - CMUAPE
+  - CMUYautja
+  - WYPMC
 
 - type: npcFaction
   id: Zombie
